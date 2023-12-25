@@ -1,0 +1,207 @@
+.navbar-brand {
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    border-style: solid;
+    border-color: #4b6cc1;
+    width: 55px;
+    height: 65px;
+    padding-bottom: 5px;
+}
+
+#navbar-items {
+    color: #ffffff;
+}
+
+.protfolio-bg-container {
+    background-color: #191a1d;
+    background-size: cover;
+}
+
+.button {
+    background-color: #4b6cc1;
+    border-width: 0px;
+    height: 36px;
+    width: 100px;
+    color: white;
+    font-family: "Roboto";
+    border-radius: 5px;
+}
+
+.Jenny-image {
+    height: 300px;
+    padding: 20px;
+}
+
+.jenny-heading {
+    color: white;
+}
+
+.frontdeveloper-para {
+    color: #9aa5b1;
+    font-size: 30px;
+}
+
+.bg-container {
+    background-color: #52606d;
+
+    background-size: cover;
+}
+
+.services-heading {
+    color: #cced00;
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.whatido-paragraph {
+    color: white;
+    font-size: 45px;
+    font-weight: 600;
+    font-family: "Roboto";
+}
+
+.card1-container {
+    background-color: #323f4b;
+    border-radius: 8px;
+}
+
+.staticwebsite-image {
+    height: 70px;
+    padding: 5px;
+}
+
+.static-heading {
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: 600;
+    padding: 3px;
+}
+
+.paragraph {
+    color: #9aa5b1;
+    font-size: 27px;
+    font-family: "Roboto";
+}
+
+.portfolio-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+
+    background-size: cover;
+}
+
+.hr-line {
+    background-color: white;
+    width: 60px;
+}
+
+.project-number {
+    color: white;
+    font-size: 35px;
+}
+
+.project-paragraph {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+
+}
+
+.thumb {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+
+.bg-container {
+    background-color: #1f2933;
+
+    background-size: cover;
+}
+
+.Testimonials-heading {
+    color: #cced00;
+    font-size: 23px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.ourMembersSays-heading {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: "Roboto";
+    margin-left: 20px;
+}
+
+.testimonials-card {
+    background-color: #323f4b;
+    padding: 20px;
+}
+
+.jenny-profile {
+    height: 100px;
+    width: 100px;
+    border-radius: 120px;
+}
+
+.jenny-description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 25px;
+
+}
+
+.jenny-founder {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.jenny-image {
+    width: 60px;
+    height: 60px;
+    border-radius: 90px;
+}
+
+.footer-heading {
+    color: #cced00;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+
+}
+
+.footer-sub-heading {
+    color: #9aa5b1;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+.footer-num {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 10px;
+
+}
+
+.footer-number {
+    color: #9aa5b1;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 5px;
+}
+
+.bottom-section {
+    background-color: #001c32;
+    width: 100%;
+}
